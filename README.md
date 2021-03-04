@@ -2,6 +2,6 @@
 Discord Based Cryptocurrency
 
 Current commands:\
-.mine <nonce>  
-.wallet <user>  
-.send <to> <amount>   
+.mine {nonce}  
+.wallet {user}  
+.send {to} {amount}   
